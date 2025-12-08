@@ -1,4 +1,4 @@
-# 📊 Project: YouTube Channel Performance Analysis
+# 📊 Project 8: YouTube Channel Performance Analysis
 
 ## 🔗 Repository Summary
 
