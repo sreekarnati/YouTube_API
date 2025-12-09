@@ -48,7 +48,7 @@ The channel should implement a two-pronged publishing strategy, prioritizing con
 
 1.  **Clone the Repository:** Use the direct HTTPS link for the repository:
     ```bash
-    git clone [https://github.com/sreekarnati/YouTube_API](https://github.com/sreekarnati/YouTube_API)
+    git clone https://github.com/sreekarnati/YouTube_API
     ```
 
 2.  **Install Dependencies:**
